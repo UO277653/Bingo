@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+  <indexitem text="Claim the prizes" target="prizes"/>
+  <indexitem text="Introduction to Bingo" target="intro" />
+  <indexitem text="Log into account" target="account"/>
+  <indexitem text="Play the game" target="game"/>
+  <indexitem text="Registrate" target="registration"/>
+  <indexitem text="Start the game" target="initial" />
+  <indexitem text="Wild Card" target="wildcard" />
+</index>
+

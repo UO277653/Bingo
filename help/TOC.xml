@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Introduction to Bingo" target="intro"/>
+  <tocitem text="During the session">
+	  <tocitem text="Start the game" target="initial" />
+	  <tocitem text="Play the game" target="game"/>
+	  <tocitem text="Claim the prizes" target="prizes"/>
+	  <tocitem text="Registrate" target="registration"/>
+	  <tocitem text="Log into account" target="account"/>
+	  <tocitem text="Wild Card and how to use it" target="wildcard"/>
+</toc>

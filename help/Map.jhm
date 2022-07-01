@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+
+<mapID target="intro" url="Sources/Introduction to Bingo.html" />
+<mapID target="initial" url="Sources/Initial.html" />
+<mapID target="game" url="Sources/Game.html" />
+<mapID target="prizes" url="Sources/Prizes.html" />
+<mapID target="registration" url="Sources/Registration.html" />
+<mapID target="account" url="Sources/Account.html" />
+<mapID target="wildcard" url="Sources/WildCard.html" />
+
+
+</map>
